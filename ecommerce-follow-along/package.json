@@ -1,0 +1,26 @@
+{
+  "name": "ecommerce-follow-along",
+  "version": "1.0.0",
+  "description": "<!-- This project involves building a full-fledged E-Commerce Application using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The first milestone focuses on understanding the structure of a MERN project, setting up the repository, and exploring key features of an e-commerce platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0"
+  }
+}
+
+
+
